@@ -16,7 +16,7 @@
         
         <ul>
             <li>inicio</li>
-            <li>quienes somos</li>
+            <li> <a href="quienes.jsp">Quienes somos</a></li>
             <li>servicios</li>
             <li>portafolio</li>
             <li>contactos</li>
